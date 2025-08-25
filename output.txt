@@ -1,0 +1,66 @@
+Names:
+Aml Ahmed
+Ali Osama
+Sara Adel
+Tarek Mohamed
+Laila
+Nabil
+Hassan Youssef
+Nourhan Khaled
+Omar Said
+Mai Fathy
+Kareem Salah
+Dina Magdy
+Mostafa Hany
+Rania Samir
+Youssef Ibrahim
+Huda Mamdouh
+Tamer Helmy
+Asmaa Gamal
+Walid Sherif
+Marwa Ehab
+Ibrahim Adel
+
+Phones:
+0102345678
+0124342342
+0119876543
+0108765432
+0123456789
+0111234567
+0105566778
+0121122334
+0112233445
+0103344556
+0126677889
+0113344556
+0104455667
+0127788990
+0115566778
+0109988776
+0123344556
+0116677889
+0101122334
+0129988776
+
+Emails:
+aml.ahmed@gmail.com
+ali.osama@gmail.com
+sara.adel@gmail.com
+mohamed.tarek@gmail.com
+laila.nabil@gmail.com
+hassan.youssef@gmail.com
+nourhan.khaled@gmail.com
+omar.said@gmail.com
+mai.fathy@gmail.com
+kareem.salah@gmail.com
+dina.magdy@gmail.com
+mostafa.hany@gmail.com
+rania.samir@gmail.com
+youssef.ibrahim@gmail.com
+huda.mamdouh@gmail.com
+tamer.helmy@gmail.com
+asmaa.gamal@gmail.com
+walid.sherif@gmail.com
+marwa.ehab@gmail.com
+ibrahim.adel@gmail.com
